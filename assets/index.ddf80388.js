@@ -13066,7 +13066,7 @@ const ig = y(
   Og = y("br", null, null, -1),
   Lg = y("br", null, null, -1),
   Pg = y("br", null, null, -1),
-  Ig = y("p", null, "Any bugs can be reported to Charo#7195", -1),
+  Ig = y("p", null, "Any bugs can be reported to Charo#7195 (DO NOT REPORT TO THEM. JUST LEAVING THIS HERE.", -1),
   Mg = y(
     "p",
     null,
@@ -13074,7 +13074,7 @@ const ig = y(
       y(
         "i",
         null,
-        "Sorry, have no time to maintain the config file with actual counterpicks"
+        "LITERALL ALL CREDIT GOES TO CHARO. THIS IS THE OG REDDIT POST: https://www.reddit.com/r/EpicSeven/comments/11hj7ti/e7_pvp_assistant/"
       ),
     ],
     -1
@@ -13085,11 +13085,8 @@ const ig = y(
     "div",
     null,
     [
-      y(
-        "p",
-        null,
-        "04/06/23 Added units: Last Piece Karin, Abigail. Updated default configuration. "
-      ),
+      y("p", null, "02/17/24 Added units: Requiem Roana, Ocean Break Luluca, Navy Captain Landy, Brieg, Urban Shadow Choux, Midnight Gala Lilias, Nahkwol, Kane, Abyssal Yufine, Fumyr, Eternal Wanderer Ludwig, Byblis, Blooming Lidica, Laia, Dragon King Sharun")
+      y("p", null, "04/06/23 Added units: Last Piece Karin, Abigail. Updated default configuration. "),
       y("p", null, "11/05/23 Added units: Twisted Eidolon Kayron, Benimaru "),
       y("p", null, "31/03/23 Added units: Architect Laika, Eligos "),
       y("p", null, "03/03/23 Uploaded to github.io "),
